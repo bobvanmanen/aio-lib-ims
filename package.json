@@ -15,7 +15,7 @@
     "@adobe/aio-lib-core-ims-oauth": "^0.0.3"
   },
   "devDependencies": {
-    "@adobe/eslint-config-aio-lib-config": "^1.0.2",
+    "@adobe/eslint-config-aio-lib-config": "^1.1.0",
     "codecov": "^3.6.1",
     "eslint": "^6.7.2",
     "eslint-config-standard": "^14.1.0",
