@@ -28,7 +28,7 @@
     "jest": "^24",
     "jest-junit": "^10.0.0",
     "jsdoc-to-markdown": "^5.0.3",
-    "stdout-stderr": "^0.1.9"
+    "stdout-stderr": "^0.1.13"
   },
   "engines": {
     "node": ">=10.0.0"
